@@ -2,6 +2,8 @@
 
 我的世界 1.21.1 NeoForge 整合包发布仓库。
 
+完整教程（玩家 + 作者）：[GUIDE.md](https://github.com/Yokeymain/Package-Wrapper/releases/download/v1.0.0/GUIDE.md)
+
 ## 玩家安装
 
 1. 下载 [PackLauncher.exe](https://github.com/Yokeymain/Package-Wrapper/releases/download/v1.0.0/PackLauncher.exe) 和 [installer.config.json](https://github.com/Yokeymain/Package-Wrapper/releases/download/v1.0.0/installer.config.json)，放在同一个文件夹。
